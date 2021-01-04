@@ -78,7 +78,7 @@ or advice or contact the author directly!
 
 ## Configuration
 
-`tube` can be confirued to suit your particular needs and comes by default with
+`tube` can be configured to suit your particular needs and comes by default with
 a sensbile set of defaults. There is also a default configuration at the
 top-level [config.json](/config.json) that you can use as a start point and
 modify to suite your needs.
